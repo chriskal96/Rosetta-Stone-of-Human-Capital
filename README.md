@@ -1,0 +1,1 @@
+# Rosetta-Stone-of-Human-Capital
