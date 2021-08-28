@@ -12,7 +12,9 @@ This repository includes an assignment assigned for the cource "Analytics Practi
 1. US 2000 Census Data. Permission to use the data has been graciously granted by IPUMS USA, and the original publication is: Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas and Matthew Sobek. IPUMS USA: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2020. https://doi.org/10.18128/D010.V10.0.
 2. BACI (Base Pour L’ Analyse du Commerce International) Country Trade Data. The original publication is: BACI: International Trade Database at the Product-Level. The 1994-2007 Version CEPII Working Paper, N°2010-23, Octobre 2010, Guillaume Gaulier, Soledad Zignago.
 3. Country Codes file, also provided by BACI.
-4.  <a href="https://drive.google.com/drive/folders/1p4PCDOBPXkhkP9nIgLSDXatLvPqNwdTh">Replication materials</a>.
+4.  Replication materials
+
+The files can be seen in <a href="https://drive.google.com/drive/folders/1E18XwWZDT2-FbVXtH0iyJV0XZ3OdjQsH?usp=sharing">here</a>.
 
 ## Author
 
