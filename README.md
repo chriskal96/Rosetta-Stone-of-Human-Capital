@@ -14,7 +14,7 @@ This repository includes an assignment assigned for the cource "Analytics Practi
 3. Country Codes file, also provided by BACI.
 4.  Replication materials
 
-The files can be seen in <a href="https://drive.google.com/drive/folders/1E18XwWZDT2-FbVXtH0iyJV0XZ3OdjQsH?usp=sharing">here</a>.
+The files can be seen <a href="https://drive.google.com/drive/folders/1E18XwWZDT2-FbVXtH0iyJV0XZ3OdjQsH?usp=sharing">here</a>.
 
 ## Author
 
